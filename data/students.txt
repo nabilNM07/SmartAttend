@@ -1,0 +1,10 @@
+101|Karim|CSE|3B
+201|Ratan|EEE|3B
+202|Rakib|EEE|3B
+301|Rahim|CSE|3C
+302|Karim|CSE|3C
+303|Nabil|CSE|3C
+304|hamem|CSE|3C
+501|Razon|CSE|5C
+502|Tamim|CSE|5C
+503|Toriqul|CSE|5C

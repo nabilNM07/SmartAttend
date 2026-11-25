@@ -1,0 +1,13 @@
+3C|2026-11-24|301|Rahim|Present
+3C|2026-11-24|302|Karim|Absent
+3C|2026-11-24|303|Nabil|Late
+3C|2026-11-26|301|Rahim|Present
+3C|2026-11-26|302|Karim|Absent
+3C|2026-11-26|303|Nabil|Late
+3C|2026-11-26|304|hamem|Present
+5C|2026-11-28|501|Razon|Present
+5C|2026-11-28|502|Tamim|Absent
+5C|2026-11-28|503|Toriqul|Late
+5C|2026-11-29|501|Razon|Absent
+5C|2026-11-29|502|Tamim|Present
+5C|2026-11-29|503|Toriqul|Late
